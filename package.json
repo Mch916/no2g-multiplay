@@ -1,0 +1,9 @@
+{
+  "name": "no2g-multiplay",
+  "version": "0.0.1",
+  "description": "ndoe js server",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
